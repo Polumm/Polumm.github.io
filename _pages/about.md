@@ -9,7 +9,7 @@ redirect_from:
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com). This project was initially created for the **70085 Software Systems Engineering** course at Imperial College London.
 
-About me
+About Me
 ======
 My name is Chujia Song, an MSc Computing student in the Class of 24Fall at Imperial College London. I have earned a Bachelor's degree in Geographic Information Science with an overall average score of 94.54, and I was recognized as an Outstanding Bachelor Graduate at China University of Geosciences (2024).
 

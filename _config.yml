@@ -21,7 +21,7 @@ repository               : "Polumm/Polumm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Me.png"
+  avatar           : "Me.png"
   name             : "Chujia Song"
   pronouns         : # example: "she/her"  
   bio              : "Postgraduate Student"
