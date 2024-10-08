@@ -13,7 +13,7 @@ About me
 ======
 My name is Chujia Song, an MSc Computing student in the Class of 24Fall at Imperial College London. I have earned a Bachelor's degree in Geographic Information Science with an overall average score of 94.54, and I was recognized as an Outstanding Bachelor Graduate at China University of Geosciences (2024).
 
-## EDUCATION:
+## Education:
 
 - **China University of Geosciences**, Wuhan, China  
   **BSc. Geographic Information Science**  
@@ -31,7 +31,7 @@ My name is Chujia Song, an MSc Computing student in the Class of 24Fall at Imper
   **MSc. Computing**  
   *Sept. 2024 - Expected: Sept. 2025*  
 
-## COMPETITION ACHIEVEMENTS:
+## Competition Achievements:
 
 | **Competition**                                                                                          | **Achievement**                  | **Date**                 |
 |----------------------------------------------------------------------------------------------------------|----------------------------------|--------------------------|
@@ -39,7 +39,7 @@ My name is Chujia Song, an MSc Computing student in the Class of 24Fall at Imper
 | [Mathorcup Mathematical Modeling Contest](https://www.saikr.com/vse/mathorcup/2022#notice)                | Second Prize (Nation)            | Apr. 2022                |
 | China Undergraduate Mathematical Contest in Modeling                                                     | First Prize (Hubei Division)     | Sept. 2022               |
 
-## RESEARCH EXPERIENCE:
+## Research Experience:
 
 ### **Research on Multimodal Lithology Classification Using Remote Sensing and Geographic Priors**  
 *Independent Research | Oct. 2023 - Jul. 2024*
@@ -81,7 +81,7 @@ Focused on improving the accuracy of pest detection under conditions of limited 
   1. Applied data augmentation strategies like Mosaic and Cut-and-Paste.
   2. Implemented class weighting and CBAM in YOLO v5 for better small-target detection.
 
-## SKILLS:
+## Skills:
 
 - **Programming:** Python > C++ > SQL > C# > MATLAB > Java = HTML5
 - **Professional Software:** Ubuntu, EndNote, ArcGIS, QGIS, ENVI, Photoshop
@@ -89,12 +89,12 @@ Focused on improving the accuracy of pest detection under conditions of limited 
 
 I have strong self-motivation, a solid foundation in mathematics and programming, and a passion for exploring new fields. As a mathematical modeling enthusiast, I abstract complex problems and apply mathematical and computational methods to solve real-world challenges. I aim to dedicate myself to research in robotics and embodied intelligence.
 
-## ENGLISH LEVEL:
+## English Level:
 
 - **Imperial [Higher Level](https://www.imperial.ac.uk/study/apply/english-language/)**  
   PTE 73 L(70) R(77) S(66) W(77); IELTS 6.5 (6); English for Special Skills Diploma
 
-## OTHER EXPERIENCE:
+## Other Experience:
 
 - Member of the Student Union Innovation and Entrepreneurship Practice Department (2020 - 2021)
 - Member of the University’s Mathematical Modeling Representative Team (2022)
