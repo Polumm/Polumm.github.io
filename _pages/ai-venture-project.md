@@ -12,7 +12,7 @@ Wearable AI is transforming the way we interact with digital information. Howeve
 
 Our goal is to enable contextualized AI interactions, where the device intelligently understands what the user is focusing on, enhancing productivity, accessibility, and real-world applications.
 
-💪 With the support of Dr. Jiankang Deng (Honorary Lecturer at Imperial), including access to cutting-edge hardware (RayNeo X2, RTX 5090 GPU) and research insights, we have a unique advantage to develop a proof-of-concept system that aligns with real-world commercial AI applications.
+💪 With the support of Dr. Jiankang Deng (Honorary Lecturer at Imperial), including access to **cutting-edge hardware (RayNeo X2, RTX 5090 GPU)** and research insights, we have a unique advantage to develop a proof-of-concept system that aligns with real-world commercial AI applications.
 
 ---
 
@@ -31,7 +31,7 @@ We aim to develop a **multimodal, context-aware AI assistant** for AR glasses th
 - 🌍 **Accessibility** – AI-powered assistive technology for the visually impaired.
 - 🛍️ **Retail & Marketing** – Augmented product recommendations.
 - 🏥 **Healthcare** – Medical assistance and real-time diagnostics.
-- ❓ ......
+- ❓ **......**
 ---
 
 ## 🔬 What We Will Build (AI Venture Focused)
