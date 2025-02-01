@@ -1,3 +1,9 @@
+---
+layout: page
+title: "AI-Powered Smart Eyewear"
+permalink: /ai-venture-project/
+---
+
 # AI-Powered Smart Eyewear: Bridging Human-AI Interaction Through AR Glasses & Multimodal AI
 
 ## 💡 The Opportunity
