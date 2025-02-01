@@ -8,7 +8,7 @@ permalink: /ai-venture-project/
 
 ## 💡 The Opportunity
 
-Wearable AI is transforming the way we interact with digital information. However, current smart eyewear lacks true context-awareness—they can process multimodal inputs (vision, audio, text) but fail to understand the user’s attention and intent. Inspired by recent breakthroughs like GPT-4o, our venture integrates eye-tracking and multimodal AI into next-gen AR glasses (RayNeo X2).
+Wearable AI is transforming the way we interact with digital information. However, current smart eyewear lacks true context-awareness—they can process multimodal inputs (vision, audio, text) but fail to understand the user’s attention and intent. Inspired by recent breakthroughs like GPT-4o, **our venture integrates multimodal AI into next-gen AR glasses (RayNeo X2).**
 
 Our goal is to enable contextualized AI interactions, where the device intelligently understands what the user is focusing on, enhancing productivity, accessibility, and real-world applications.
 
@@ -31,7 +31,7 @@ We aim to develop a **multimodal, context-aware AI assistant** for AR glasses th
 - 🌍 **Accessibility** – AI-powered assistive technology for the visually impaired.
 - 🛍️ **Retail & Marketing** – Augmented product recommendations.
 - 🏥 **Healthcare** – Medical assistance and real-time diagnostics.
-
+- ❓ ......
 ---
 
 ## 🔬 What We Will Build (AI Venture Focused)
